@@ -1,0 +1,2 @@
+copy Flash\Obj\PCR_Demo.hex ..\PCR_Demo.hex
+copy Flash\Obj\PCR_Demo.bin ..\PCR_Demo.bin
